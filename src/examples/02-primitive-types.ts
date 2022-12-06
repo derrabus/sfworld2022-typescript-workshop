@@ -28,3 +28,5 @@ console.log(typeof f, f, g, h);
 const i: undefined = undefined;
 
 console.log(typeof i, i, i === undefined);
+
+export {};
